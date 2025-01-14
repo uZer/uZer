@@ -1,6 +1,6 @@
 Hi,
 
-I'm a french SRE / DevOps / CloudOps / System Engineer / Architect, former
+I'm a French SRE / DevOps / CloudOps / System Engineer / Architect, former
 Network Engineer, working in the infrastructure team of [Radio
 France](https://radiofrance.fr) called "Fondation". We are hosting the websites
 and building the [streaming
@@ -8,14 +8,14 @@ platform](https://github.com/radiofrance/rf-liquidsoap/) with open source
 technologies. I spend a lot of time thinking about industrialisation and
 workflow optimization.
 
-During the other half of my days~nights and holydays I am an audiovisual creator
+During the other half of my days~nights and holidays I am an audiovisual creator
 and musician performing under the name [SCHEMATiC
 WiZARD](https://www.instagram.com/schematicwizard/). I've been releasing various
 bleeps and bloops since 2010, trying to focus on modular synthesis and IDM music
-since 2017 an doing art installations and eurorack liveshows since 2022. I like
+since 2017 an doing art installation and eurorack live shows since 2022. I like
 to build things with obsolete technologies like Minitel, game consoles, radio
 waves and hooking with cables and communication protocols a lot of machines so
-they can talk and play together. After spending years with getting frustrated
+they can talk and play together. After spending years getting frustrated
 with hardware sequencers I am now treating my eurorack synth like a big VST.
 
 I'm the co-founder of an audiovisual collective called
